@@ -51,22 +51,22 @@
 - Unloaded Activity: No more afk babysitting furnaces/crops! Go exploring instead!
 - _YDM's Custom Camera View_
 
-  ### Pretty Render Mods:
-  - Async Partciles: Prevents rain inside of ships.
-  - Better FPS - Render Distance: Renders in a sphere, rather than a square. Takes into account vertical distance.
-  - Continuity
-  - _Oculus_
-  - Pretty Rain
-  - _Subtle Effects_
+### Pretty Render Mods:
+- Async Partciles: Prevents rain inside of ships.
+- Better FPS - Render Distance: Renders in a sphere, rather than a square. Takes into account vertical distance.
+- Continuity
+- _Oculus_
+- Pretty Rain
+- _Subtle Effects_
  
-    ### Optimization:
-    - AI Improvements
-    - _Brute Force Render Culling_
-    - Clumps
-    - Cull Leaves
-    - Embeddium
-    - Entity Culling
-    - _Ferrite Core_
-    - _Memory Leak Fix_
-    - _Modern Fix_
-    - Particle Core
+### Optimization:
+- AI Improvements
+- _Brute Force Render Culling_
+- Clumps
+- Cull Leaves
+- Embeddium
+- Entity Culling
+- _Ferrite Core_
+- _Memory Leak Fix_
+- _Modern Fix_
+- Particle Core
