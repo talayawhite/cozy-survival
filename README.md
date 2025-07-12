@@ -41,7 +41,7 @@
 - _Skylands Over The Sea_
 - Smarter Farmers
 - Sophisticated Backpacks
-- Supplementaries + Squared
+- ~~Supplementaries + Squared~~ -Incompatible
 - Survive
 - _Tom's Simple Storage_
 - _Valkyrien Skies Eureka_ TODO: Change blacklist block functionality.
@@ -86,6 +86,9 @@
 - _Oculus_
 - Pretty Rain
 - _Subtle Effects_
+
+**TODO:**
+- LOD
  
 ### Optimization:
 - AI Improvements
