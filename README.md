@@ -13,8 +13,10 @@
 ### Content:
 - Alex's Caves
 - Alex's Mobs
+- _Amendments_
 - Baby Fat
 - Bountiful
+- Cooking for Blockheads
 - Countered's Settlement Roads
 - Create
 - Croptopia
@@ -26,18 +28,44 @@
 - Ex Nihilo: Sequentia
 - Exotic Birds
 - Ferdinand's Flowers
+- Healing Campfire
+- Immersive Snow
 - Immersive Weathering
 - Mythic Mounts
+- No Hostiles Around Campfire
 - Peaceful Nights
 - Quark
 - Regions Unexplored
 - Serene Seasons
 - _Simple Clouds_
 - _Skylands Over The Sea_
+- Smarter Farmers
 - Sophisticated Backpacks
+- Supplementaries + Squared
 - Survive
-- _Valkyrien Skies Eureka_
+- _Tom's Simple Storage_
+- _Valkyrien Skies Eureka_ TODO: Change blacklist block functionality.
 - Xaero's World Map and Minimap
+
+**TODO:**
+- Longer Days
+- Furniture
+- Doors and Windows
+- Hammocks
+- Villages
+- Structures/Dungeons
+- Yung's Mods
+- _BOP/BYG_
+
+**Look Into:**
+- Pufferfish Skills
+- Shops
+- Quests
+- Let's Do
+
+### _Multiplayer: All TODO_
+- Claiming System (Need to find one that works with ships.)
+- Teleport to Other Players
 
 ### QOL:
 - AppleSkin
