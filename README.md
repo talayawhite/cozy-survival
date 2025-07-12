@@ -22,19 +22,51 @@
 - Desire Paths
 - Domestication Innovation
 - Dynamic Trees
+- Dynamic Villager Trades
 - Ex Nihilo: Sequentia
 - Exotic Birds
 - Ferdinand's Flowers
 - Immersive Weathering
+- Mythic Mounts
 - Peaceful Nights
 - Quark
 - Regions Unexplored
 - Serene Seasons
-- Simple Clouds
-- *Skylands Over The Sea*
+- _Simple Clouds_
+- _Skylands Over The Sea_
 - Sophisticated Backpacks
 - Survive
-- Valkyrien Skies Eureka
+- _Valkyrien Skies Eureka_
 - Xaero's World Map and Minimap
 
 ### QOL:
+- AppleSkin
+- Controlling
+- Jade
+- JEI (etc.)
+- Mod Name Tooltip
+- Mouse Tweaks
+- Patchouli
+- Toast Control
+- Unloaded Activity: No more afk babysitting furnaces/crops! Go exploring instead!
+- _YDM's Custom Camera View_
+
+  ### Pretty Render Mods:
+  - Async Partciles: Prevents rain inside of ships.
+  - Better FPS - Render Distance: Renders in a sphere, rather than a square. Takes into account vertical distance.
+  - Continuity
+  - _Oculus_
+  - Pretty Rain
+  - _Subtle Effects_
+ 
+    ### Optimization:
+    - AI Improvements
+    - _Brute Force Render Culling_
+    - Clumps
+    - Cull Leaves
+    - Embeddium
+    - Entity Culling
+    - _Ferrite Core_
+    - _Memory Leak Fix_
+    - _Modern Fix_
+    - Particle Core
