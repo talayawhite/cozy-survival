@@ -16,6 +16,7 @@
 - _Amendments_
 - Baby Fat
 - Bountiful
+- Comforts
 - Cooking for Blockheads
 - Countered's Settlement Roads
 - Create
@@ -57,6 +58,7 @@
 - Yung's Mods
 - _BOP/BYG_
 - Graves/Bodies
+- Spice of Life
 
 **Look Into:**
 - Pufferfish Skills
@@ -65,6 +67,7 @@
 - Let's Do
 - Stars
 - Magic
+- Pam's
 
 ### _Multiplayer: All TODO_
 - Claiming System (Need to find one that works with ships.)
@@ -103,6 +106,7 @@
 - Embeddium
 - Entity Culling
 - _Ferrite Core_
+- Let Me Despawn
 - _Memory Leak Fix_
 - _Modern Fix_
 - Particle Core
