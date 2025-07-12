@@ -62,6 +62,8 @@
 - Shops
 - Quests
 - Let's Do
+- Stars
+- Magic
 
 ### _Multiplayer: All TODO_
 - Claiming System (Need to find one that works with ships.)
@@ -89,6 +91,7 @@
 
 **TODO:**
 - LOD
+- Ocean Skybox (if sticking with sky islands)
  
 ### Optimization:
 - AI Improvements
