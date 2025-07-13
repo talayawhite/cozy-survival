@@ -15,7 +15,7 @@
 - Alex's Mobs
 - _Amendments_
 - Baby Fat
-- Botany Pots
+- _Botany Pots_
 - Bountiful
 - Comforts
 - Cooking for Blockheads
