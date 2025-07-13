@@ -35,6 +35,7 @@
 - Immersive Weathering
 - Mythic Mounts
 - No Hostiles Around Campfire
+- Pam's Harvest Craft
 - Peaceful Nights
 - Quark
 - Regions Unexplored
@@ -43,7 +44,7 @@
 - _Skylands Over The Sea_
 - Smarter Farmers
 - Sophisticated Backpacks
-- ~~Supplementaries + Squared~~ -Incompatible
+- Supplementaries 3.1.18 ~~+ Squared~~ -Incompatible
 - Survive
 - _Tom's Simple Storage_
 - _Valkyrien Skies Eureka_ TODO: Change blacklist block functionality.
@@ -53,13 +54,14 @@
 - Longer Days
 - Furniture
 - Doors and Windows
-- Hammocks
+- ~~Hammocks~~ done
 - Villages
 - Structures/Dungeons
 - Yung's Mods
-- _BOP/BYG_
+- ~~BOP/BYG~~ done
 - Graves/Bodies
 - Spice of Life
+- Carpenter's Blocks
 
 **Look Into:**
 - Pufferfish Skills
@@ -68,7 +70,8 @@
 - Let's Do
 - Stars
 - Magic
-- Pam's
+- ~~Pam's~~ done
+- Farmer's Delight
 
 ### _Multiplayer: All TODO_
 - Claiming System (Need to find one that works with ships.)
