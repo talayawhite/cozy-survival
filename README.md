@@ -64,6 +64,7 @@
 - Carpenter's Blocks
 - Nix Flies and Centipedes
 - Leather Recipe
+- Random Block Placement?
 
 **Look Into:**
 - Pufferfish Skills
