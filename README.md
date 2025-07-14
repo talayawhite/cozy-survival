@@ -72,6 +72,7 @@
 - Magic
 - ~~Pam's~~ done
 - Farmer's Delight
+- Butterflies
 
 ### _Multiplayer: All TODO_
 - Claiming System (Need to find one that works with ships.)
