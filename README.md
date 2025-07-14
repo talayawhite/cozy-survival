@@ -62,6 +62,8 @@
 - Graves/Bodies
 - Spice of Life
 - Carpenter's Blocks
+- Nix Flies and Centipedes
+- Leather Recipe
 
 **Look Into:**
 - Pufferfish Skills
@@ -75,7 +77,7 @@
 - Butterflies
 - Dynamic Trees Taller?
 - Healing Staff
-- Nix Flies and Centipedes
+- PHC Empty Tags
 
 ### _Multiplayer: All TODO_
 - Claiming System (Need to find one that works with ships.)
