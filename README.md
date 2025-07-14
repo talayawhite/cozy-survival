@@ -90,6 +90,7 @@
 
 ### QOL:
 - AppleSkin
+- Crafting Tweaks
 - Controlling
 - Jade
 - JEI (etc.)
