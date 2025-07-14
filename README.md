@@ -66,6 +66,7 @@
 - Leather Recipe
 - Random Block Placement?
 - Nix Potion Particles
+- Nix Pillagers + Outposts
 
 **Look Into:**
 - Pufferfish Skills
