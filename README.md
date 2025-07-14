@@ -82,6 +82,7 @@
 - Healing Staff
 - PHC Empty Tags
 - Crops Grow Slower
+- Diagonal Compat
 
 ### _Multiplayer: All TODO_
 - Claiming System (Need to find one that works with ships.)
