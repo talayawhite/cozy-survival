@@ -75,6 +75,7 @@
 - Butterflies
 - Dynamic Trees Taller?
 - Healing Staff
+- Nix Flies and Centipedes
 
 ### _Multiplayer: All TODO_
 - Claiming System (Need to find one that works with ships.)
