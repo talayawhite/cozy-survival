@@ -65,6 +65,7 @@
 - Nix Flies and Centipedes
 - Leather Recipe
 - Random Block Placement?
+- Nix Potion Particles
 
 **Look Into:**
 - Pufferfish Skills
