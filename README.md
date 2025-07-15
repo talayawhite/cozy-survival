@@ -8,6 +8,10 @@
 
 **Exploration and Transportation:** I like pretty places, and everyone likes airships. Seems to work out.
 
+**Community:**
+
+**Comfy:**
+
 ## Mods:
 
 ### Content:
